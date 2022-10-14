@@ -17,7 +17,7 @@ const corsOptions = {
 }
 
 const app = express()
-const uri = `mongodb+srv://appDany:appDany@cluster0.lskghqv.mongodb.net/?retryWrites=true&w=majority`
+const uri = `mongodb+srv://Dany:uno23456.@cluster0.5ss5a.mongodb.net/?retryWrites=true&w=majority`
 const PORT = process.env.PORT || 3001
 
 require('dotenv').config()
